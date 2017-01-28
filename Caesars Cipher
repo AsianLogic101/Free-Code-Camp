@@ -17,4 +17,4 @@ function rot13(str) {
   }
   return box.join("");
 }  
-rot13("?");
+rot13("SERR PBQR PNZC");
