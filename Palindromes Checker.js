@@ -1,4 +1,3 @@
-
 function palindrome(str) {
   var newWord=str.toLowerCase().replace(/[^a-zA-Z0-9]/gi,"");
   console.log(newWord);
@@ -7,8 +6,5 @@ function palindrome(str) {
   }
   return false;
 }
-
-
-
 
 palindrome("Racecar");
